@@ -1,0 +1,11 @@
+//
+// Created by Rafeh Qazi on 12/24/15.
+//
+
+#ifndef INTRO_CPP_SECONDS_TO_HOURS_FORMATTING_H
+#define INTRO_CPP_SECONDS_TO_HOURS_FORMATTING_H
+
+
+void secToHMS(int seconds);
+
+#endif //INTRO_CPP_SECONDS_TO_HOURS_FORMATTING_H
